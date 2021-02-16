@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "TriptoAfsin",
+      "age": 23,
+      "gender": "male",
+      "favColor": "purple",
+      "isMarried": false,
+      "id": 0
+    },
+    {
+      "id": 1,
+      "username": "Horin",
+      "age": 21,
+      "gender": "male",
+      "favColor": "ash",
+      "isMarried": false
+    },
+    {
+      "id": 2,
+      "username": "Juni",
+      "age": 11,
+      "gender": "female",
+      "favColor": "pink",
+      "isMarried": false
+    }
+  ]
+}
